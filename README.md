@@ -8,6 +8,9 @@ push
 pull
 commit
 merge
-crerry-pick
+cherry-pick
 rebase
+status
+branch
+checkout
 ```
